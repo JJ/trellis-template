@@ -16,4 +16,11 @@ wp-content/plugins/hello.php
 /readme.html
 /sitemap.xml
 /sitemap.xml.gz
+.vault_pass
+.vagrant
+vagrant.local.yml
+vendor/roles
+*.py[co]
+*.retry
+.trellis/virtualenv
 
